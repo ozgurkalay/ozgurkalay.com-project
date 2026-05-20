@@ -707,6 +707,13 @@ a {
   margin-bottom: 1.2rem;
 }
 
+.narrative-section .section-heading h1 {
+  margin: 0;
+  font-size: clamp(1.85rem, 3.4vw, 2.9rem);
+  line-height: 1.16;
+  letter-spacing: 0;
+}
+
 .about-kicker {
   color: var(--amber);
   font-size: 0.95rem;
